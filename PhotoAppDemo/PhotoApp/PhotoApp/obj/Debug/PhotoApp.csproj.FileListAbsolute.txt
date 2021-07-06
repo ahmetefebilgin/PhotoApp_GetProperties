@@ -1,0 +1,10 @@
+C:\Users\ahmet\Desktop\ASP.NET\PhotoAppDemo\PhotoApp\PhotoApp\bin\Debug\PhotoApp.exe.config
+C:\Users\ahmet\Desktop\ASP.NET\PhotoAppDemo\PhotoApp\PhotoApp\bin\Debug\PhotoApp.exe
+C:\Users\ahmet\Desktop\ASP.NET\PhotoAppDemo\PhotoApp\PhotoApp\bin\Debug\PhotoApp.pdb
+C:\Users\ahmet\Desktop\ASP.NET\PhotoAppDemo\PhotoApp\PhotoApp\obj\Debug\PhotoApp.csproj.AssemblyReference.cache
+C:\Users\ahmet\Desktop\ASP.NET\PhotoAppDemo\PhotoApp\PhotoApp\obj\Debug\PhotoApp.Form1.resources
+C:\Users\ahmet\Desktop\ASP.NET\PhotoAppDemo\PhotoApp\PhotoApp\obj\Debug\PhotoApp.Properties.Resources.resources
+C:\Users\ahmet\Desktop\ASP.NET\PhotoAppDemo\PhotoApp\PhotoApp\obj\Debug\PhotoApp.csproj.GenerateResource.cache
+C:\Users\ahmet\Desktop\ASP.NET\PhotoAppDemo\PhotoApp\PhotoApp\obj\Debug\PhotoApp.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\Desktop\ASP.NET\PhotoAppDemo\PhotoApp\PhotoApp\obj\Debug\PhotoApp.exe
+C:\Users\ahmet\Desktop\ASP.NET\PhotoAppDemo\PhotoApp\PhotoApp\obj\Debug\PhotoApp.pdb
